@@ -14,6 +14,13 @@ body,
   direction: ltr;
 }
 
+#preload {
+  position: absolute;
+  /* visibility: hidden; */
+  display:none;
+  z-index: -999;
+}
+
 #opening-ending-container {
   position: absolute;
   z-index: 16;
@@ -181,12 +188,9 @@ body,
 
 #notebook-button {
   width: 30%;
-  /* position: relative;
-  top: -24vw;
-  left: 50vw; */
   align-self: flex-end;
   top: -9.3vw;
-  left: 12vw;
+  left: -4vw;
   position: relative;
 }
 
@@ -196,7 +200,7 @@ body,
 }
 
 #drawer-container {
-  height: 58vh;
+  height: 43vh;
   background-color: rgb(158, 158, 158);
 }
 
@@ -205,6 +209,7 @@ body,
   overflow-y: scroll;
   flex-direction: column;
   top: -15.7vw;
+  background-color: rgb(158, 158, 158);
 }
 
 .acts {
@@ -244,18 +249,11 @@ body,
   top: 8vw;
 }
 
-/* #component-12 {
-  position: absolute;
-  top: 407vw;
-  right: 77vw;
-} */
-
 /* ending */
 
 #notebook-container {
   width: 100%;
   z-index: 17;
-  /* bottom: 142vw; */
   bottom: 2vw;
   position: relative;
   display: none;
@@ -302,16 +300,9 @@ body,
   background-repeat: no-repeat;
 }
 
-/* 
-#marked-name-1 {
-  background-image: url(assets/media/marker/marker_1.svg);
-} */
-
 #great-job-span {
   font-size: 12vw
 }
-
-/* fgvDSPGOknds;ojgnda[s jognerJS NG NJSr bjignbsRAIR NGBSpnbg his */
 
 #notebook-button-ending {
   position: fixed;
