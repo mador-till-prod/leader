@@ -1,1 +1,632 @@
-var _0x25f2=['#marked-name-','assets/media/info-answer/info_11.svg','#about','#notebook-button','animate','assets/media/general/about.svg','url(assets/media/vial/','assets/media/vial/info_vial_','assets/media/audio/cut/right_2.mp3','play','assets/media/leader-answer/leader_3.svg','937242AUMhXk','</div>','#notebook-scrollbar','assets/media/marker/marker_3.svg','assets/media/info-answer/info_13.svg','log','988959YlirTB','assets/media/leader-answer/leader_12.svg','attr','דמות\x20מנהיגה\x20פורצת\x20דרך\x20בתחום\x20הטכנולוגיה\x20והחלל.','floor','href','assets/media/marker/marker_2.svg','-answer/','sw.js','דמות\x20חסידת\x20אומות\x20עולם\x20שהצילה\x202500\x20ילדים\x20יהודים\x20במהלך\x20השואה\x20תוך\x20סיכון\x20חייה.\x20עובדת\x20סוציאלית\x20וחברת\x20מחתרת,\x20שהתנגדה\x20לנאצים\x20בזמן\x20מלחמת\x20העולם\x20השנייה.','assets/media/info-answer/info_selected_6.svg','location','assets/media/leader-answer/leader_selected_','assets/media/info-answer/info_1.svg','assets/media/info-answer/info_7.svg','component','דמות\x20מייסדת\x20מרכזית\x20של\x20אפליקציית\x20\x22ווייז\x22,\x20אשר\x20הציבה\x20את\x20ישראל\x20במקום\x20של\x20כבוד\x20לצד\x20מפתחי\x20אפליקציות\x20מובילות\x20בקנה\x20מידה\x20עולמי.','\x27\x20class=\x27marked-text\x27>','assets/media/info-answer/info_selected_2.svg','-77vw','#play-button','text','assets/media/info-answer/info_selected_14.svg','#vial','fadeOut','assets/media/leader-answer/leader_8.svg','loadFile','.svg)','hidden','assets/media/vial/','141TlIoCJ','assets/media/marker/marker_5.svg','דמות\x20מדענית\x20פורצת\x20גבולות,\x20חלוצה\x20בחקר\x20הקרינה\x20הרדיואקטיבית.','דמות\x20ששימשה\x20כראש\x20המנהל\x20למחקר,\x20פיתוח\x20אמצעי\x20לחימה\x20ותשתית\x20טכנולוגית,\x20ותת\x20אלוף\x20במילואים\x20בצה\x22ל.','עזרתם','currentTime','assets/media/info-answer/info_4.svg','LoadQueue','דמות\x20שהייתה\x20קצינה\x20בצה\x22ל,\x20ונהרגה\x20בקרב\x20בינת\x20ג\x27בייל\x20במלחמת\x20לבנון\x20השנייה\x20לאחר\x20שזינקה\x20על\x20רימון\x20יד\x20כדי\x20להציל\x20את\x20חיי\x20חייליה.','assets/media/leader-answer/leader_4.svg','0vw','1ctNkel','assets/media/leader-answer/leader_selected_5.svg','assets/media/info-answer/info_selected_9.svg','2vw','assets/media/audio/cut/right_3.mp3','142vw','assets/media/info-answer/info_12.svg','assets/media/general/cabinet_right.svg','assets/media/general/play.svg','assets/media/marker/marker_12.svg','act','right','assets/media/leader-answer/leader_selected_4.svg','assets/media/leader-answer/leader_5.svg','864051IQVqdh','אירנה\x20סנדלר','assets/media/leader-answer/leader_1.svg','selected','info','assets/media/leader-answer/leader_selected_8.svg','background-image','css','assets/media/audio/cut/start.mp3','דמות\x20שנאבקה\x20למען\x20פתיחת\x20קורס\x20הטיס\x20בצה\x22ל\x20לנשים\x20באמצעות\x20עתירה\x20לבג\x22ץ.','assets/media/leader-answer/leader_7.svg','ד\x22ר\x20דני\x20גולד','יהודה\x20המכבי','\x22\x20data-num=','30vw','assets/media/info-answer/info_selected_3.svg','assets/media/leader-answer/leader_selected_10.svg','assets/media/info-answer/info_selected_13.svg','assets/media/info-answer/info_selected_','מלאלה\x20יוספזאי','assets/media/info-answer/info_selected_15.svg','סטף\x20ורטהיימר','.mp3','visibility','#component-','דמות\x20שהייתה\x20הרב\x20הראשי\x20האשכנזי\x20הראשון\x20בארץ\x20ישראל,\x20ונחשבת\x20לאחת\x20מאבות\x20הציונות\x20הדתית.','assets/media/marker/marker_7.svg','localhost','assets/media/info-answer/info_8.svg','315155iYznRc','#explosion1','</div><div\x20id=\x27marked-text-','#opening-ending-container','730213whnIyP','_vial_','data-num','408HyXYDM','assets/media/leader-answer/leader_selected_1.svg','assets/media/general/desk.svg','350iAdNNh','<img\x20id=\x22component-','#names-flexbox','cloud','click','.svg\x22>','#notebook-container','assets/media/marker/marker_6.svg','assets/media/leader-answer/leader_selected_3.svg','assets/media/info-answer/info_2.svg','assets/media/info-answer/info_selected_10.svg','assets/media/marker/marker_','assets/media/leader-answer/leader_15.svg','block','assets/media/info-answer/info_selected_11.svg','assets/media/audio/cut/wrong_','assets/media/info-answer/info_5.svg','יעל\x20ארד','assets/media/marker/marker_14.svg','assets/media/general/shelf.svg','assets/media/info-answer/info_','assets/media/vial/leader_vial_','assets/media/','#act-','דמות\x20תעשיינית\x20ישראלית\x20שייסדה\x20מפעלים\x20מובילים\x20בארץ\x20ובעולם,\x20זוכת\x20פרס\x20ישראל\x20וחברת\x20הכנסת\x20התשיעית\x20מטעם\x20התנועה\x20הדמוקרטית\x20לשינוי.','assets/media/general/scientist-end.svg','#scientist','1LEeZsC','promise','assets/media/marker/marker_1.svg','assets/media/info-answer/info_3.svg','דמות\x20מנהיגה,\x20אשת\x20חינוך\x20ויזמית\x20חברתית.\x20מייסדת\x20תנועת\x20\x22כנפיים\x20של\x20קרמבו\x22\x20(תנועת\x20נוער\x20לצעירים\x20עם\x20ובלי\x20צרכים\x20מיוחדים).','assets/media/leader-answer/leader_selected_6.svg','name','assets/media/general/scientist-start.svg','assets/media/marker/marker_9.svg','#leader-','#notebook-button-ending','assets/media/marker/marker_13.svg','assets/media/leader-answer/leader_selected_9.svg','#speech-bubble','slice','394ogDuQk','.leaders','50vw','fadeToggle','assets/media/general/cabinet_left.svg','assets/media/info-answer/info_10.svg','assets/media/leader-answer/leader_selected_2.svg','assets/media/leader-answer/leader_14.svg','assets/media/leader-answer/leader_2.svg','assets/media/general/SpeechBubble.svg','assets/media/info-answer/info_selected_12.svg','length','assets/media/info-answer/info_14.svg','.svg','assets/media/info-answer/info_selected_5.svg','assets/media/leader-answer/leader_selected_13.svg','register','#back-button','דמות\x20מנהיגה\x20בתחום\x20הספורט\x20אשר\x20נחשבת\x20לאחת\x20מהטובות\x20ביותר\x20בכל\x20הזמנים.','<img\x20id=\x22leader-','assets/media/leader-answer/leader_6.svg','assets/media/info-answer/info_selected_7.svg','explosion','#black-opacity','delay','pause','includes','20vw','assets/media/vial/vial_wrong.svg','assets/media/marker/marker_4.svg','assets/media/audio/cut/end.mp3','.acts','off','<div\x20id=\x27marked-name-','<div\x20class=\x22act-text\x22>','_selected_','1QpiMjf','src','חנה\x20סנש','assets/media/vial/vial_right.svg','url(assets/media/vial/vial.svg)','דמות\x20מנהיגה\x20חברתית\x20אשר\x20לחמה\x20למען\x20זכויות\x20נערות\x20מהעיר\x20מינגורה\x20בפקיסטן.','assets/media/marker/marker_10.svg','leader','#cloud1','append','assets/media/general/notebook-button.svg','hostname','assets/media/audio/cut/wrong_1.mp3','assets/media/info-answer/info_15.svg','html','flex','אילון\x20מאסק','רועי\x20קליין','visible','then','\x20class=\x22leaders\x22\x20src=\x22assets/media/leader-answer/leader_','assets/media/marker/marker_8.svg','display','assets/media/info-answer/info_6.svg','assets/media/leader-answer/leader_9.svg','random','none','assets/media/leader-answer/leader_10.svg','מארי\x20קירי','assets/media/general/back_arrow.svg','assets/media/leader-answer/leader_','assets/media/leader-answer/leader_selected_11.svg','serviceWorker','assets/media/vial/vial.svg'];var _0x2b22ea=_0x560e;(function(_0x50f7b8,_0x3e55d3){var _0x5ed2f1=_0x560e;while(!![]){try{var _0x228c1e=parseInt(_0x5ed2f1(0x109))*parseInt(_0x5ed2f1(0xc9))+-parseInt(_0x5ed2f1(0xe2))+parseInt(_0x5ed2f1(0x184))+-parseInt(_0x5ed2f1(0xd4))*-parseInt(_0x5ed2f1(0x18a))+-parseInt(_0x5ed2f1(0x124))*-parseInt(_0x5ed2f1(0xff))+-parseInt(_0x5ed2f1(0x106))*parseInt(_0x5ed2f1(0x133))+parseInt(_0x5ed2f1(0x103))*-parseInt(_0x5ed2f1(0x157));if(_0x228c1e===_0x3e55d3)break;else _0x50f7b8['push'](_0x50f7b8['shift']());}catch(_0x3bc2da){_0x50f7b8['push'](_0x50f7b8['shift']());}}}(_0x25f2,0x82c8a));const NUM_OF_LEADERS=0xf,NUM_OF_EXPLOSION_STAGES=0x6,arrLeaders=[{'name':_0x2b22ea(0x173),'act':_0x2b22ea(0xcb)},{'name':_0x2b22ea(0x167),'act':_0x2b22ea(0xae)},{'name':_0x2b22ea(0x159),'act':'דמות\x20לוחמת\x20ומשוררת\x20יהודייה,\x20מצנחני\x20היישוב,\x20שהייתה\x20לסמל\x20של\x20אידיאליזם\x20והקרבה\x20עצמית.'},{'name':'עדי\x20אלטשולר','act':_0x2b22ea(0x128)},{'name':'הרב\x20קוק','act':_0x2b22ea(0xfb)},{'name':_0x2b22ea(0xee),'act':'דמות\x20מצביאה\x20ומנהיגה\x20יהודית\x20שעמדה\x20בראש\x20מרד\x20החשמונאים.'},{'name':_0x2b22ea(0xf7),'act':_0x2b22ea(0x121)},{'name':_0x2b22ea(0xed),'act':_0x2b22ea(0xcc)},{'name':'אהוד\x20שבתאי','act':_0x2b22ea(0xbb)},{'name':_0x2b22ea(0xf5),'act':_0x2b22ea(0x15c)},{'name':_0x2b22ea(0xe3),'act':_0x2b22ea(0xb4)},{'name':'אליס\x20מילר','act':_0x2b22ea(0xeb)},{'name':_0x2b22ea(0x168),'act':_0x2b22ea(0xd1)},{'name':_0x2b22ea(0x11a),'act':_0x2b22ea(0x145)},{'name':'הנרייטה\x20סאלד','act':'דמות\x20פעילת\x20ציבור,\x20אשת\x20חינוך\x20ועורכת\x20ספרותית,\x20שהקדישה\x20את\x20חייה\x20ופועלה\x20לרעיון\x20הציוני\x20ולעם\x20היהודי'}];var selectedcomponent=null,selectedleader=null,ending=0x0,src=[_0x2b22ea(0x180),_0x2b22ea(0xb7),_0x2b22ea(0x11e),_0x2b22ea(0xf4),_0x2b22ea(0x114)],audio=new Audio(_0x2b22ea(0xea)),generalImages=[_0x2b22ea(0x15a),_0x2b22ea(0x14f),_0x2b22ea(0x178),_0x2b22ea(0x17e),_0x2b22ea(0x174),_0x2b22ea(0x137),_0x2b22ea(0xdb),_0x2b22ea(0x161),'assets/media/general/notebook.svg',_0x2b22ea(0x12b),'assets/media/general/scientist-end.svg',_0x2b22ea(0x13c),_0x2b22ea(0x108),_0x2b22ea(0x11c),_0x2b22ea(0xdc)],loadAudio=[_0x2b22ea(0xea),_0x2b22ea(0x151),'assets/media/audio/cut/right_1.mp3',_0x2b22ea(0x181),_0x2b22ea(0xd8),_0x2b22ea(0x163),'assets/media/audio/cut/wrong_2.mp3','assets/media/audio/cut/wrong_3.mp3'],queue=new createjs[(_0x2b22ea(0xd0))](!![]),queueAudio=new createjs['LoadQueue'](!![]),arrManifest=[];let mediaCache='userSettings';function _0x560e(_0x289f9c,_0xbbea2e){_0x289f9c=_0x289f9c-0xac;var _0x25f2e3=_0x25f2[_0x289f9c];return _0x25f2e3;}$(function(){var _0xd4665c=_0x2b22ea;if(_0xd4665c(0x177)in navigator&&location['hostname']!==_0xd4665c(0xfd)&&location[_0xd4665c(0x162)]!=='127.0.0.1'){let _0x5872d3='';navigator['serviceWorker'][_0xd4665c(0x143)](_0x5872d3+_0xd4665c(0xb3));}init();});function init(){var _0xc89b7d=_0x2b22ea,_0xc01d4d=_0xc89b7d(0xc8),_0x488550={'img1':_0xc89b7d(0xe4),'img2':'assets/media/marker/marker_15.svg','img3':_0xc89b7d(0x107),'img4':_0xc89b7d(0xb8),'img5':'assets/media/info-answer/info_selected_1.svg','img6':_0xc89b7d(0x126),'img7':_0xc89b7d(0x13b),'img8':_0xc89b7d(0x139),'img9':_0xc89b7d(0x112),'img10':_0xc89b7d(0xbd),'img11':_0xc89b7d(0xb1),'img12':_0xc89b7d(0x183),'img13':_0xc89b7d(0x111),'img14':_0xc89b7d(0x127),'img15':_0xc89b7d(0xf1),'img16':_0xc89b7d(0x187),'img17':_0xc89b7d(0xd2),'img18':_0xc89b7d(0xe0),'img19':_0xc89b7d(0xcf),'img20':'assets/media/info-answer/info_selected_4.svg','img21':_0xc89b7d(0x150),'img22':_0xc89b7d(0xe1),'img23':_0xc89b7d(0xd5),'img24':_0xc89b7d(0x119),'img25':_0xc89b7d(0x141),'img26':_0xc89b7d(0xca),'img27':_0xc89b7d(0x147),'img28':_0xc89b7d(0x129),'img29':_0xc89b7d(0x16e),'img30':_0xc89b7d(0xb5),'img31':_0xc89b7d(0x110),'img32':_0xc89b7d(0xec),'img33':'assets/media/leader-answer/leader_selected_7.svg','img34':_0xc89b7d(0xb9),'img35':_0xc89b7d(0x148),'img36':_0xc89b7d(0xfc),'img37':_0xc89b7d(0xc4),'img38':_0xc89b7d(0xe7),'img39':_0xc89b7d(0xfe),'img40':'assets/media/info-answer/info_selected_8.svg','img41':_0xc89b7d(0x16c),'img42':_0xc89b7d(0x16f),'img43':_0xc89b7d(0x130),'img44':'assets/media/info-answer/info_9.svg','img45':_0xc89b7d(0xd6),'img46':_0xc89b7d(0x12c),'img47':_0xc89b7d(0x172),'img48':_0xc89b7d(0xf2),'img49':_0xc89b7d(0x138),'img50':_0xc89b7d(0x113),'img51':_0xc89b7d(0x15d),'img52':'assets/media/leader-answer/leader_11.svg','img53':_0xc89b7d(0x176),'img54':_0xc89b7d(0x17a),'img55':_0xc89b7d(0x117),'img56':'assets/media/marker/marker_11.svg','img57':_0xc89b7d(0xac),'img58':'assets/media/leader-answer/leader_selected_12.svg','img59':_0xc89b7d(0xda),'img60':_0xc89b7d(0x13d),'img61':_0xc89b7d(0xdd),'img62':'assets/media/leader-answer/leader_13.svg','img63':_0xc89b7d(0x142),'img64':_0xc89b7d(0x188),'img65':_0xc89b7d(0xf3),'img66':_0xc89b7d(0x12f),'img67':_0xc89b7d(0x13a),'img68':'assets/media/leader-answer/leader_selected_14.svg','img69':_0xc89b7d(0x13f),'img70':_0xc89b7d(0xc1),'img71':_0xc89b7d(0x11b),'img72':_0xc89b7d(0x115),'img73':'assets/media/leader-answer/leader_selected_15.svg','img74':_0xc89b7d(0x164),'img75':_0xc89b7d(0xf6)};console[_0xc89b7d(0x189)](_0x488550);for(let _0x15b86e=0x0;_0x15b86e<NUM_OF_LEADERS;_0x15b86e++){$(_0xc89b7d(0x10b))['append'](_0xc89b7d(0x146)+(_0x15b86e+0x1)+_0xc89b7d(0xef)+(_0x15b86e+0x1)+_0xc89b7d(0x16b)+(_0x15b86e+0x1)+_0xc89b7d(0x10e)),$(_0xc89b7d(0x120)+(_0x15b86e+0x1))[_0xc89b7d(0x160)](_0xc89b7d(0x155)+arrLeaders[_0x15b86e][_0xc89b7d(0xde)]+_0xc89b7d(0x185)),$(_0xc89b7d(0x120)+(_0x15b86e+0x1))[_0xc89b7d(0x160)](_0xc89b7d(0x10a)+(_0x15b86e+0x1)+_0xc89b7d(0xef)+(_0x15b86e+0x1)+'\x20class=\x22components\x22\x20src=\x22assets/media/info-answer/info_'+(_0x15b86e+0x1)+_0xc89b7d(0x10e));}$(_0xc89b7d(0xbf))['on'](_0xc89b7d(0x10d),function(){var _0x2ff283=_0xc89b7d;scientistOut(),setTimeout(toggleBlackOpacityDiv,0x44c),setTimeout(function(){var _0x38a079=_0x560e;$('#opening-ending-container')[_0x38a079(0xe9)](_0x38a079(0x16d),'none');},0x44c),$(_0x2ff283(0x186))[_0x2ff283(0x165)](''),audio[_0x2ff283(0x14c)]();}),$(_0xc89b7d(0x17b))['on']('click',function(){var _0x86811a=_0xc89b7d;scientistOut(),$(_0x86811a(0x10f))[_0x86811a(0xe9)](_0x86811a(0x16d),_0x86811a(0x166)),$(_0x86811a(0x10f))[_0x86811a(0x17d)]({'bottom':'142vw'},0x12c),$(_0x86811a(0x186))[_0x86811a(0x165)]('<div\x20id=\x22about-title\x22>אודות</div><div\x20id=\x22about-content\x22>רמ\x22ד\x20טי\x22ל:\x20רס\x22ן\x20מיגל\x20לויתן<br>רת\x22ח\x20פרוייקטים:\x20רס\x22ר\x20שלומי\x20אוגרן<br>רת\x22ח\x20מו\x22פ\x20וחדשנות\x20בלמידה:\x20סמ\x22ר\x20גל\x20גנסין<br><br>תכנות:\x20טור\x27\x20טל\x20סרוסי<br>עיצוב\x20גרפי:\x20רב\x22ט\x20מייה\x20ליבנה<br><br>מומחה\x20התוכן:\x20סגן\x20שחף\x20שוחט<br><br>גרסה:\x201.0.2021</div><img\x20id=\x22till-symbol\x22\x20class=\x22symbol\x22\x20src=\x22assets/media/symbols/tilblack.svg\x22><img\x20id=\x22school-symbol\x22\x20class=\x22symbol\x22\x20src=\x22assets/media/symbols/סמל\x20בית\x20הספר\x20הכשם.png\x22>'),audio[_0x86811a(0x14c)](),audio[_0x86811a(0xce)]=0x0;}),$(_0xc89b7d(0x152))['on'](_0xc89b7d(0x10d),function(){var _0x3a12e7=_0xc89b7d;selected($(_0x3a12e7(0xfa)+$(this)['attr']('id')['slice'](0x4)),_0x3a12e7(0xe6),'component');for(var _0x1b086c=0x1;_0x1b086c<=src[_0x3a12e7(0x13e)];_0x1b086c++){console[_0x3a12e7(0x189)](src[_0x1b086c-0x1]+$(this)['attr']('id')[_0x3a12e7(0x132)](0x4)+'.svg'),queue['loadFile'](src[_0x1b086c-0x1]+$(this)[_0x3a12e7(0xad)]('id')['slice'](0x4)+_0x3a12e7(0x140));}}),$('.leaders')['on']('click',function(){var _0x39b3b1=_0xc89b7d;selected($(this),_0x39b3b1(0x15e),_0x39b3b1(0x15e));for(var _0x52c9a3=0x1;_0x52c9a3<=src[_0x39b3b1(0x13e)];_0x52c9a3++){console[_0x39b3b1(0x189)](src[_0x52c9a3-0x1]+$(this)[_0x39b3b1(0xad)]('id')[_0x39b3b1(0x132)](0x7)+_0x39b3b1(0x140)),queue[_0x39b3b1(0xc5)](src[_0x52c9a3-0x1]+$(this)[_0x39b3b1(0xad)]('id')[_0x39b3b1(0x132)](0x7)+_0x39b3b1(0x140));}}),$(_0xc89b7d(0x17c))['on'](_0xc89b7d(0x10d),function(){var _0x82fea=_0xc89b7d;$('#notebook-container')[_0x82fea(0xe9)]('display',_0x82fea(0x166)),$('#notebook-container')[_0x82fea(0x17d)]({'bottom':_0x82fea(0xd9)},0x12c),toggleBlackOpacityDiv();}),$(_0xc89b7d(0x144))['on'](_0xc89b7d(0x10d),function(){var _0x250d28=_0xc89b7d;$('#about-title')[_0x250d28(0xc0)]()==='אודות'||$(_0x250d28(0x131))[_0x250d28(0xc0)]()[_0x250d28(0x14d)](_0x250d28(0xcd))?(start(),scientistInAbout()):toggleBlackOpacityDiv(),$(_0x250d28(0x10f))[_0x250d28(0x17d)]({'bottom':_0x250d28(0xd7)},0x12c)[_0x250d28(0x125)]()[_0x250d28(0x16a)](function(){var _0x384d0f=_0x250d28;$(_0x384d0f(0x10f))[_0x384d0f(0xe9)](_0x384d0f(0x16d),_0x384d0f(0x171));});}),scientistInStart();}function start(){var _0x457cd0=_0x2b22ea;setTimeout(function(){var _0xd8e593=_0x560e;$(_0xd8e593(0x131))[_0xd8e593(0x14b)](0x2bc)['animate']({'opacity':'10'},0x5dc),$(_0xd8e593(0xbf))[_0xd8e593(0x14b)](0x320)[_0xd8e593(0x17d)]({'opacity':'10'},0x5dc),$('#about')[_0xd8e593(0x14b)](0x384)['animate']({'opacity':'10'},0x5dc);},0x1f4),$(_0x457cd0(0x123))['attr'](_0x457cd0(0x158))===_0x457cd0(0x12b)&&setTimeout(function(){audio['play']();},0x320),$('#scientist')[_0x457cd0(0xad)]('src')===_0x457cd0(0x122)&&$('#notebook-button-ending')['delay'](0x5dc)[_0x457cd0(0x17d)]({'opacity':'10'},0x5dc);}function scientistInStart(){var _0x1de867=_0x2b22ea;setTimeout(function(){var _0xd360f9=_0x560e;$(_0xd360f9(0x123))[_0xd360f9(0x17d)]({'top':_0xd360f9(0x135)},0xc8)[_0xd360f9(0x17d)]({'top':_0xd360f9(0x14e)},0xc8)[_0xd360f9(0x17d)]({'top':_0xd360f9(0xf0)},0xc8)[_0xd360f9(0x14b)](0xc8)[_0xd360f9(0x17d)]({'height':'71vw','top':'27vw'},0xc8)['animate']({'height':'67vw','top':_0xd360f9(0xf0)},0xc8);},0x320),$(_0x1de867(0x123))['on'](_0x1de867(0x10d),function(){var _0x505380=_0x1de867;$(_0x505380(0x123))[_0x505380(0x153)](_0x505380(0x10d)),start(),$('#scientist')['animate']({'top':_0x505380(0xd3)},0x1f4);});}function scientistInAbout(){setTimeout(function(){var _0x3a8697=_0x560e;$('#scientist')[_0x3a8697(0x17d)]({'top':'20vw'},0xc8)[_0x3a8697(0x17d)]({'top':'-10vw'},0xc8)[_0x3a8697(0x17d)]({'top':'0vw'},0xc8);},0x320);}function scientistOut(){var _0x337804=_0x2b22ea;$(_0x337804(0x123))['animate']({'top':_0x337804(0xbe)},0x190),$(_0x337804(0x131))[_0x337804(0x17d)]({'opacity':'0'},0x1f4),$(_0x337804(0xbf))[_0x337804(0x17d)]({'opacity':'0'},0x1f4),$(_0x337804(0x17b))[_0x337804(0x17d)]({'opacity':'0'},0x1f4),$('#notebook-button-ending')['animate']({'opacity':'0'},0x1f4);}function selected(_0xccc8a2,_0x401856,_0x105ffd){var _0x1bf159=_0x2b22ea;$('#'+_0x105ffd+'-'+window[_0x1bf159(0xe5)+_0x105ffd])[_0x1bf159(0xad)](_0x1bf159(0x158),_0x1bf159(0x11f)+_0x401856+'-answer/'+_0x401856+'_'+window[_0x1bf159(0xe5)+_0x105ffd]+_0x1bf159(0x140));if(window['selected'+_0x105ffd]!==_0xccc8a2['attr'](_0x1bf159(0x105))){window[_0x1bf159(0xe5)+_0x105ffd]=_0xccc8a2['attr'](_0x1bf159(0x105)),_0xccc8a2[_0x1bf159(0xad)](_0x1bf159(0x158),_0x1bf159(0x11f)+_0x401856+'-answer/'+_0x401856+_0x1bf159(0x156)+window[_0x1bf159(0xe5)+_0x105ffd]+'.svg');if($(_0x1bf159(0xc2))[_0x1bf159(0xe9)](_0x1bf159(0xe8))[_0x1bf159(0x14d)]('assets/media/vial/vial.svg'))$(_0x1bf159(0xc2))[_0x1bf159(0xe9)](_0x1bf159(0xe8),_0x1bf159(0x17f)+_0x401856+'_vial_'+window['selected'+_0x105ffd]+_0x1bf159(0xc6));else $('#vial')[_0x1bf159(0xe9)]('background-image')[_0x1bf159(0x14d)](_0x401856)?$(_0x1bf159(0xc2))[_0x1bf159(0xe9)](_0x1bf159(0xe8),'url(assets/media/vial/'+_0x401856+_0x1bf159(0x104)+window[_0x1bf159(0xe5)+_0x105ffd]+_0x1bf159(0xc6)):selectedcomponent===selectedleader?reaction('right'):reaction('wrong');}else _0xccc8a2[_0x1bf159(0xad)](_0x1bf159(0x158),_0x1bf159(0x11f)+_0x401856+_0x1bf159(0xb2)+_0x401856+'_'+window[_0x1bf159(0xe5)+_0x105ffd]+_0x1bf159(0x140)),window[_0x1bf159(0xe5)+_0x105ffd]=null,$(_0x1bf159(0xc2))[_0x1bf159(0xe9)](_0x1bf159(0xe8),_0x1bf159(0x15b));}function reaction(_0x5cf31c){var _0x56cd40=_0x2b22ea;let _0x2c16ba;_0x5cf31c===_0x56cd40(0xdf)?(_0x2c16ba=_0x56cd40(0x10c),$(_0x56cd40(0x186))[_0x56cd40(0x160)](_0x56cd40(0x154)+selectedleader+'\x27\x20class=\x27marked-name\x27>'+arrLeaders[selectedleader-0x1][_0x56cd40(0x12a)]+_0x56cd40(0x101)+selectedcomponent+_0x56cd40(0xbc)+arrLeaders[selectedcomponent-0x1][_0x56cd40(0xde)]+_0x56cd40(0x185)),$(_0x56cd40(0x179)+selectedleader)[_0x56cd40(0xe9)](_0x56cd40(0xe8),'url(assets/media/marker/marker_'+selectedleader+_0x56cd40(0xc6)),$(_0x56cd40(0x15f))['css']({'visibility':_0x56cd40(0xc7),'display':'block'}),$(_0x56cd40(0x100))[_0x56cd40(0xe9)]({'visibility':_0x56cd40(0x169),'display':_0x56cd40(0x171)}),audio=new Audio('assets/media/audio/cut/right_'+Math[_0x56cd40(0xaf)](Math[_0x56cd40(0x170)]()*0x3+0x1)+'.mp3')):(_0x2c16ba=_0x56cd40(0x149),$('#explosion1')[_0x56cd40(0xe9)]({'visibility':_0x56cd40(0xc7),'display':_0x56cd40(0x116)}),$(_0x56cd40(0x15f))[_0x56cd40(0xe9)]({'visibility':_0x56cd40(0x169),'display':'none'}),audio=new Audio(_0x56cd40(0x118)+Math[_0x56cd40(0xaf)](Math[_0x56cd40(0x170)]()*0x3+0x1)+_0x56cd40(0xf8)));audio['play']();for(let _0x1229eb=0x1;_0x1229eb<=NUM_OF_EXPLOSION_STAGES;_0x1229eb++){setTimeout(function(){var _0x54eaa4=_0x56cd40;$('#'+_0x2c16ba+_0x1229eb)[_0x54eaa4(0xe9)]('display',_0x54eaa4(0x116)),_0x1229eb===0x1&&$('#'+_0x2c16ba+0x1)['css'](_0x54eaa4(0xf9),_0x54eaa4(0x169));},_0x1229eb*0x64),setTimeout(function(){var _0x23427c=_0x56cd40;$('#'+_0x2c16ba+_0x1229eb)[_0x23427c(0xe9)](_0x23427c(0x16d),_0x23427c(0x171)),_0x1229eb===0x1&&$('#'+_0x2c16ba+_0x1229eb)['css']('visibility',_0x23427c(0xc7)),_0x1229eb===NUM_OF_EXPLOSION_STAGES&&$('#'+_0x2c16ba+0x1)[_0x23427c(0xe9)](_0x23427c(0x16d),'block');},_0x1229eb*0x64+0x64);}setTimeout(function(){var _0x476682=_0x56cd40;$('#vial')[_0x476682(0xe9)](_0x476682(0xe8),'url(assets/media/vial/vial_'+_0x5cf31c+_0x476682(0xc6));},0x1f4),$('.acts')[_0x56cd40(0x153)](_0x56cd40(0x10d)),$(_0x56cd40(0x134))[_0x56cd40(0x153)]('click'),setTimeout(function(){var _0x565433=_0x56cd40;_0x5cf31c===_0x565433(0xdf)?($(_0x565433(0x120)+selectedcomponent)['fadeOut'](),$(_0x565433(0x12d)+selectedleader)[_0x565433(0xc3)](),ending++,ending===NUM_OF_LEADERS&&($(_0x565433(0x17c))[_0x565433(0x153)](_0x565433(0x10d)),$(_0x565433(0xbf))[_0x565433(0x153)]('click'),$(_0x565433(0xbf))['on'](_0x565433(0x10d),function(){var _0x5cdb24=_0x565433;window[_0x5cdb24(0xb6)][_0x5cdb24(0xb0)]='https://youtube.com/shorts/w93f45UhEpg?feature=share';}),setTimeout(function(){var _0x58ed4c=_0x565433;toggleBlackOpacityDiv(),$(_0x58ed4c(0x102))[_0x58ed4c(0xe9)](_0x58ed4c(0x16d),_0x58ed4c(0x116)),$(_0x58ed4c(0x17b))[_0x58ed4c(0xe9)](_0x58ed4c(0x16d),_0x58ed4c(0x171)),$(_0x58ed4c(0x123))[_0x58ed4c(0xad)]('src',_0x58ed4c(0x122)),audio=new Audio(_0x58ed4c(0x151)),setTimeout(function(){var _0x13b672=_0x58ed4c;audio[_0x13b672(0x182)]();},0x3e8),start(),scientistInAbout(),$(_0x58ed4c(0xbf))[_0x58ed4c(0xe9)]({'top':'-30vw','width':'20%','left':'38vw'}),$(_0x58ed4c(0x12e))['on'](_0x58ed4c(0x10d),function(){var _0x5213b6=_0x58ed4c;$(_0x5213b6(0x10f))[_0x5213b6(0xe9)](_0x5213b6(0x16d),_0x5213b6(0x166)),$(_0x5213b6(0x10f))[_0x5213b6(0x17d)]({'bottom':_0x5213b6(0xd9)},0x12c),scientistOut();}),$(_0x58ed4c(0x131))[_0x58ed4c(0x165)]('עזרתם\x20לי\x20להכין\x20את\x20כל\x20התרופות!<br><span\x20id=\x22great-job-span\x22>עבודה\x20מעולה!</span><br><br>בואו\x20נמשיך\x20הלאה');},0x5dc))):($('#component-'+selectedcomponent)[_0x565433(0xad)](_0x565433(0x158),_0x565433(0x11d)+selectedcomponent+_0x565433(0x140)),$(_0x565433(0x12d)+selectedleader)['attr']('src',_0x565433(0x175)+selectedleader+_0x565433(0x140))),selectedcomponent=null,selectedleader=null,$(_0x565433(0xc2))[_0x565433(0xe9)]('background-image',_0x565433(0x15b)),$('.acts')['on'](_0x565433(0x10d),function(){var _0x1e0c91=_0x565433;selected($(_0x1e0c91(0xfa)+$(this)['attr']('id')[_0x1e0c91(0x132)](0x4)),_0x1e0c91(0xe6),_0x1e0c91(0xba));}),$('.leaders')['on'](_0x565433(0x10d),function(){var _0x298586=_0x565433;selected($(this),_0x298586(0x15e),_0x298586(0x15e));});},0x5dc);}function toggleBlackOpacityDiv(){var _0x5d5266=_0x2b22ea;$(_0x5d5266(0x14a))[_0x5d5266(0x136)]();}
+const NUM_OF_LEADERS = 15;
+// reaction function
+const NUM_OF_EXPLOSION_STAGES = 6;
+const arrLeaders = [{
+    "name": "מארי קירי",
+    "act": "דמות מדענית פורצת גבולות, חלוצה בחקר הקרינה הרדיואקטיבית."
+  },
+  {
+    "name": "אילון מאסק",
+    "act": "דמות מנהיגה פורצת דרך בתחום הטכנולוגיה והחלל."
+  },
+  {
+    "name": "חנה סנש",
+    "act": "דמות לוחמת ומשוררת יהודייה, מצנחני היישוב, שהייתה לסמל של אידיאליזם והקרבה עצמית."
+  },
+  {
+    "name": "עדי אלטשולר",
+    "act": 'דמות מנהיגה, אשת חינוך ויזמית חברתית. מייסדת תנועת "כנפיים של קרמבו" (תנועת נוער לצעירים עם ובלי צרכים מיוחדים).'
+  },
+  {
+    "name": "הרב קוק",
+    "act": 'דמות שהייתה הרב הראשי האשכנזי הראשון בארץ ישראל, ונחשבת לאחת מאבות הציונות הדתית.'
+  },
+  {
+    "name": "יהודה המכבי",
+    "act": "דמות מצביאה ומנהיגה יהודית שעמדה בראש מרד החשמונאים."
+  },
+  {
+    "name": "סטף ורטהיימר",
+    "act": "דמות תעשיינית ישראלית שייסדה מפעלים מובילים בארץ ובעולם, זוכת פרס ישראל וחברת הכנסת התשיעית מטעם התנועה הדמוקרטית לשינוי."
+  },
+  {
+    "name": 'ד"ר דני גולד',
+    "act": 'דמות ששימשה כראש המנהל למחקר, פיתוח אמצעי לחימה ותשתית טכנולוגית, ותת אלוף במילואים בצה"ל.'
+  },
+  {
+    "name": "אהוד שבתאי",
+    "act": 'דמות מייסדת מרכזית של אפליקציית "ווייז", אשר הציבה את ישראל במקום של כבוד לצד מפתחי אפליקציות מובילות בקנה מידה עולמי.'
+  },
+  {
+    "name": "מלאלה יוספזאי",
+    "act": "דמות מנהיגה חברתית אשר לחמה למען זכויות נערות מהעיר מינגורה בפקיסטן."
+  },
+  {
+    "name": "אירנה סנדלר",
+    "act": "דמות חסידת אומות עולם שהצילה 2500 ילדים יהודים במהלך השואה תוך סיכון חייה. עובדת סוציאלית וחברת מחתרת, שהתנגדה לנאצים בזמן מלחמת העולם השנייה."
+  },
+  {
+    "name": "אליס מילר",
+    "act": 'דמות שנאבקה למען פתיחת קורס הטיס בצה"ל לנשים באמצעות עתירה לבג"ץ.'
+  },
+  {
+    "name": "רועי קליין",
+    "act": `דמות שהייתה קצינה בצה"ל, ונהרגה בקרב בינת ג'בייל במלחמת לבנון השנייה לאחר שזינקה על רימון יד כדי להציל את חיי חייליה.`
+  },
+  {
+    "name": "יעל ארד",
+    "act": "דמות מנהיגה בתחום הספורט אשר נחשבת לאחת מהטובות ביותר בכל הזמנים."
+  },
+  {
+    "name": "הנרייטה סאלד",
+    "act": "דמות פעילת ציבור, אשת חינוך ועורכת ספרותית, שהקדישה את חייה ופועלה לרעיון הציוני ולעם היהודי"
+  }
+];
+// const fs = requirejs('fs');
+
+var selectedcomponent = null;
+var selectedleader = null;
+var ending = 0;
+var src = ["assets/media/vial/info_vial_", "assets/media/leader-answer/leader_selected_", "assets/media/vial/leader_vial_", "assets/media/info-answer/info_selected_","assets/media/marker/marker_"];
+var audio = new Audio("assets/media/audio/cut/start.mp3");
+var generalImages = ["assets/media/vial/vial_right.svg", "assets/media/vial/vial_wrong.svg", "assets/media/vial/vial.svg", "assets/media/general/about.svg", "assets/media/general/back_arrow.svg", "assets/media/general/cabinet_left.svg", "assets/media/general/cabinet_right.svg", "assets/media/general/notebook-button.svg", "assets/media/general/notebook.svg", "assets/media/general/scientist-start.svg", "assets/media/general/scientist-end.svg", "assets/media/general/SpeechBubble.svg", "assets/media/general/desk.svg", "assets/media/general/shelf.svg", "assets/media/general/play.svg"];
+var loadAudio = ["assets/media/audio/cut/start.mp3", "assets/media/audio/cut/end.mp3", "assets/media/audio/cut/right_1.mp3", "assets/media/audio/cut/right_2.mp3", "assets/media/audio/cut/right_3.mp3", "assets/media/audio/cut/wrong_1.mp3", "assets/media/audio/cut/wrong_2.mp3", "assets/media/audio/cut/wrong_3.mp3"];
+var queue = new createjs.LoadQueue(true);
+var queueAudio = new createjs.LoadQueue(true);
+var arrManifest = [];
+let mediaCache = 'userSettings';
+
+
+$(function() {
+  if ('serviceWorker' in navigator && location.hostname !== 'localhost' && location.hostname !== "127.0.0.1") {
+    let location = ""
+    navigator.serviceWorker.register(location + 'sw.js');
+  }
+
+
+
+  // // queue.on("fileload", function(){
+  // //   if ((i > NUM_OF_LEADERS) && (j > src.length)) {
+  // //     init();
+  // //   }
+  // // });
+//   for (var i = 1; i <= NUM_OF_LEADERS; i++) {
+//     for (var j = 1; j <= src.length; j++) {
+//       // loadingMedia(src[j-1] + i + ".svg");
+//       arrManifest.push(src[j-1] + i + ".svg");
+//       // queue.loadFile(src[j-1] + i + ".svg");
+//       // $("#preload").append("<img rel='preload' src='"+src[j-1] + i + ".svg'>");
+//       // console.log(src[j-1] + i + ".svg,");
+//     }
+//   }
+//   queue.loadManifest(arrManifest);
+//   queueAudio.loadManifest(loadAudio);
+//   caches.open(mediaCache).then(cache => {
+//     cache.addAll(arrManifest).then(()=>{
+//       console.log("data cached")
+//     });
+//     });
+//   queue.on("complete", function(){
+// console.log("gah");
+//   });
+//   queueAudio.on("complete", function(){
+//     console.log("tal");
+//   });
+//
+  // ספריית אופליין, מאפשרת פתיחה של הדף ללא אינטרנט וללא מחיקה של הקאש כל פעם מחדש
+
+  init();
+});
+
+// async function loadingMedia(url) {
+//   let graphics = new Image();
+//   return new Promise(function(resolve, reject){
+//     graphics.src = url;
+//     graphics.onload= function(){
+//       resolve(url)
+//     }
+//     graphics.onerror= function(){
+//       reject(url)
+//     }
+//   })
+// }
+
+// $(function() {
+//   loadingMedia();
+// });
+
+// // preload of media
+// function loadingMedia() {
+//   let graphics = new Image();
+//   let sound = new Audio();
+//   for (let i = 1; i <= NUM_OF_LEADERS; i++) {
+//     graphics.src = "assets/media/cloud-right/cloud_" + i + ".svg";
+//     graphics.src = "assets/media/explosion-wrong/explosion_" + i + ".svg";
+//     graphics.src = "assets/media/info-answer/info_" + i + ".svg";
+//     graphics.src = "assets/media/info-answer/info_selected_" + i + ".svg";
+//     graphics.src = "assets/media/leader-answer/leader_" + i + ".svg";
+//     graphics.src = "assets/media/leader-answer/leader_selected_" + i + ".svg";
+//     graphics.src = "assets/media/marker/marker_" + i + ".svg";
+//     graphics.src = "assets/media/vial/info_vial_" + i + ".svg";
+//     graphics.src = "assets/media/vial/leader_vial_" + i + ".svg";
+//     graphics.src = generalImages[i - 1];
+//   }
+//   for (let i = 1; i <= loadAudio.length; i++) {
+//     sound.src = loadAudio[i - 1];
+//   }
+//   init();
+// }
+
+// function readFiles(dirname, onFileContent, onError) {
+//   fs.readdir(dirname, function(err, filenames) {
+//     if (err) {
+//       onError(err);
+//       return;
+//     }
+//     filenames.forEach(function(filename) {
+//       fs.readFile(dirname + filename, 'utf-8', function(err, content) {
+//         if (err) {
+//           onError(err);
+//           return;
+//         }
+//         onFileContent(filename, content);
+//       });
+//     });
+//   });
+// }
+
+function init() {
+  var folder = "assets/media/vial/";
+//   $.ajax({
+//     url : folder,
+//     success: function (data) {
+//         $(data).find("a").attr("href", function (i, val) {
+//             if( val.match(/\.(jpe?g|png|svg)$/) ) { 
+//                 $("body").append( "<img src='"+ folder + val +"'>" );
+//                 console.log(val)
+//             } 
+//         });
+//     }
+// });
+  var data = {
+    img1: "assets/media/leader-answer/leader_1.svg",
+    img2:"assets/media/marker/marker_15.svg",
+    img3: "assets/media/leader-answer/leader_selected_1.svg",
+    img4:"assets/media/info-answer/info_1.svg",
+    img5:"assets/media/info-answer/info_selected_1.svg",
+    img6:"assets/media/marker/marker_1.svg",
+    img7:"assets/media/leader-answer/leader_2.svg",
+    img8:"assets/media/leader-answer/leader_selected_2.svg",
+    img9:"assets/media/info-answer/info_2.svg",
+    img10:"assets/media/info-answer/info_selected_2.svg",
+    img11:"assets/media/marker/marker_2.svg",
+    img12:"assets/media/leader-answer/leader_3.svg",
+    img13:"assets/media/leader-answer/leader_selected_3.svg",
+    img14:"assets/media/info-answer/info_3.svg",
+    img15:"assets/media/info-answer/info_selected_3.svg",
+    img16:"assets/media/marker/marker_3.svg",
+    img17:"assets/media/leader-answer/leader_4.svg",
+    img18:"assets/media/leader-answer/leader_selected_4.svg",
+    img19:"assets/media/info-answer/info_4.svg",
+    img20:"assets/media/info-answer/info_selected_4.svg",
+    img21:"assets/media/marker/marker_4.svg",
+    img22:"assets/media/leader-answer/leader_5.svg",
+    img23:"assets/media/leader-answer/leader_selected_5.svg",
+    img24:"assets/media/info-answer/info_5.svg",
+    img25:"assets/media/info-answer/info_selected_5.svg",
+    img26:"assets/media/marker/marker_5.svg",
+    img27:"assets/media/leader-answer/leader_6.svg",
+    img28:"assets/media/leader-answer/leader_selected_6.svg",
+    img29:"assets/media/info-answer/info_6.svg",
+    img30:"assets/media/info-answer/info_selected_6.svg",
+    img31:"assets/media/marker/marker_6.svg",
+    img32:"assets/media/leader-answer/leader_7.svg",
+    img33:"assets/media/leader-answer/leader_selected_7.svg",
+    img34:"assets/media/info-answer/info_7.svg",
+    img35:"assets/media/info-answer/info_selected_7.svg",
+    img36:"assets/media/marker/marker_7.svg",
+    img37:"assets/media/leader-answer/leader_8.svg",
+    img38:"assets/media/leader-answer/leader_selected_8.svg",
+    img39:"assets/media/info-answer/info_8.svg",
+    img40:"assets/media/info-answer/info_selected_8.svg",
+    img41:"assets/media/marker/marker_8.svg",
+    img42:"assets/media/leader-answer/leader_9.svg",
+    img43:"assets/media/leader-answer/leader_selected_9.svg",
+    img44:"assets/media/info-answer/info_9.svg",
+    img45:"assets/media/info-answer/info_selected_9.svg",
+    img46:"assets/media/marker/marker_9.svg",
+    img47:"assets/media/leader-answer/leader_10.svg",
+    img48:"assets/media/leader-answer/leader_selected_10.svg",
+    img49:"assets/media/info-answer/info_10.svg",
+    img50:"assets/media/info-answer/info_selected_10.svg",
+    img51:"assets/media/marker/marker_10.svg",
+    img52:"assets/media/leader-answer/leader_11.svg",
+    img53:"assets/media/leader-answer/leader_selected_11.svg",
+    img54:"assets/media/info-answer/info_11.svg",
+    img55:"assets/media/info-answer/info_selected_11.svg",
+    img56:"assets/media/marker/marker_11.svg",
+    img57:"assets/media/leader-answer/leader_12.svg",
+    img58:"assets/media/leader-answer/leader_selected_12.svg",
+    img59:"assets/media/info-answer/info_12.svg",
+    img60:"assets/media/info-answer/info_selected_12.svg",
+    img61:"assets/media/marker/marker_12.svg",
+    img62:"assets/media/leader-answer/leader_13.svg",
+    img63:"assets/media/leader-answer/leader_selected_13.svg",
+    img64:"assets/media/info-answer/info_13.svg",
+    img65:"assets/media/info-answer/info_selected_13.svg",
+    img66:"assets/media/marker/marker_13.svg",
+    img67:"assets/media/leader-answer/leader_14.svg",
+    img68:"assets/media/leader-answer/leader_selected_14.svg",
+    img69:"assets/media/info-answer/info_14.svg",
+    img70:"assets/media/info-answer/info_selected_14.svg",
+    img71:"assets/media/marker/marker_14.svg",
+    img72:"assets/media/leader-answer/leader_15.svg",
+    img73:"assets/media/leader-answer/leader_selected_15.svg",
+    img74:"assets/media/info-answer/info_15.svg",
+    img75:"assets/media/info-answer/info_selected_15.svg"
+};
+  // readFiles(folder, function(filename, content) {
+  //   data[filename] = content;
+  //   console.log(content)
+  // }, function(err) {
+  //   throw err;
+  // });
+  console.log(data)
+
+  // 
+// 
+// assuming you've gotten the urls from somewhere and put them in a JS array
+// var urls = ['url_image_1.svg', 'url_image_2.svg', ... ];
+
+// var svgCache = {};
+
+// function loaded(){
+//   // just increment the counter if there are still images pending...
+//   if(counter++ >= total){
+//     // this function will be called when everything is loaded
+//     // e.g. you can set a flag to say "I've got all the images now"
+//     alldone();
+//   }
+// }
+
+// var counter = 0;
+// var total = urls.length;
+
+// // This will load the images in parallel:
+// // In most browsers you can have between 4 to 6 parallel requests
+// // IE7/8 can only do 2 requests in parallel per time
+// for( var i=0; i < total; i++){
+//   var img = new Image();
+//   // When done call the function "loaded"
+//   img.onload = loaded;
+//   // cache it
+//   svgCache[urls[i]] = img;
+//   img.src = urls[i];
+// }
+
+// function alldone(){
+//   // from this point on you can use the cache to serve the images
+//   ...
+//   // say you want to load only the first image
+//   showImage('url_image_1.svg', 'imageDivId');
+// }
+
+// // basically every time you want to load a different image just use this function
+// function showImage(url, id){
+//   // get the image referenced by the given url
+//   var cached = svgCache[url];
+//   // and append it to the element with the given id
+//   document.getElementById(id).appendChild(cached);
+// }
+
+// 
+  // 
+  // loading names and acts
+  for (let i = 0; i < NUM_OF_LEADERS; i++) {
+    // names
+    // the graphics is the background of the div
+    $("#names-flexbox").append(`<img id="leader-${i+1}" data-num=${i+1} class="leaders" src="assets/media/leader-answer/leader_${i+1}.svg">`);
+    // $(`#name-${i+1}`).attr("src", `assets/media/leaders/leader_${i+1}.svg`);
+    // acts
+    // adding internal text div to the HTML div
+    $(`#act-${i+1}`).append(`<div class="act-text">${arrLeaders[i].act}</div>`);
+    //adding components graphics
+    $(`#act-${i+1}`).append(`<img id="component-${i+1}" data-num=${i+1} class="components" src="assets/media/info-answer/info_${i+1}.svg">`);
+  }
+  // event listeners
+  // start
+  $("#play-button").on("click", function() {
+    scientistOut();
+    setTimeout(toggleBlackOpacityDiv, 1100);
+    setTimeout(function() {
+      $("#opening-ending-container").css("display", "none");
+    }, 1100);
+    $("#notebook-scrollbar").html("");
+    audio.pause();
+  });
+  $("#about").on("click", function() {
+    scientistOut();
+    $("#notebook-container").css("display", "flex");
+    $("#notebook-container").animate({
+      bottom: "142vw"
+    }, 300);
+    $("#notebook-scrollbar").html(`<div id="about-title">אודות</div><div id="about-content">רמ"ד טי"ל: רס"ן מיגל לויתן<br>רת"ח פרוייקטים: רס"ר שלומי אוגרן<br>רת"ח מו"פ וחדשנות בלמידה: סמ"ר גל גנסין<br><br>תכנות: טור' טל סרוסי<br>עיצוב גרפי: רב"ט מייה ליבנה<br><br>מומחה התוכן: סגן שחף שוחט<br><br>גרסה: 1.0.2021</div><img id="till-symbol" class="symbol" src="assets/media/symbols/tilblack.svg"><img id="school-symbol" class="symbol" src="assets/media/symbols/סמל בית הספר הכשם.png">`);
+    audio.pause();
+    audio.currentTime = 0;
+  });
+  // game
+  $(".acts").on("click", function() {
+    selected($("#component-" + $(this).attr("id").slice(4)), "info", "component");
+    for (var j = 1; j <= src.length; j++) {
+      console.log(src[j-1] + $(this).attr("id").slice(4) + ".svg");
+      queue.loadFile(src[j-1] + $(this).attr("id").slice(4) + ".svg");
+    }
+  });
+  $(".leaders").on("click", function() {
+    selected($(this), "leader", "leader");
+    for (var j = 1; j <= src.length; j++) {
+      console.log(src[j-1] + $(this).attr("id").slice(7) + ".svg");
+      queue.loadFile(src[j-1] + $(this).attr("id").slice(7) + ".svg");
+    }
+  });
+  $("#notebook-button").on("click", function() {
+    $("#notebook-container").css("display", "flex");
+    $("#notebook-container").animate({
+      bottom: "142vw"
+    }, 300);
+    toggleBlackOpacityDiv();
+  });
+  $("#back-button").on("click", function() {
+    // if the content is "about", the screen returns to the opening screen
+    if ($("#about-title").text() === "אודות" || $("#speech-bubble").text().includes("עזרתם")) {
+      start();
+      scientistInAbout()
+    } else {
+      toggleBlackOpacityDiv();
+    }
+    $("#notebook-container").animate({
+      bottom: "2vw"
+    }, 300).promise().then(function() {
+      $("#notebook-container").css("display", "none");
+    });
+  });
+  scientistInStart();
+}
+
+function start() {
+  setTimeout(function() {
+    $("#speech-bubble").delay(700).animate({
+      opacity: "10"
+    }, 1500);
+    $("#play-button").delay(800).animate({
+      opacity: "10"
+    }, 1500);
+    $("#about").delay(900).animate({
+      opacity: "10"
+    }, 1500);
+  }, 500);
+  if ($("#scientist").attr("src") === "assets/media/general/scientist-start.svg") {
+    setTimeout(function() {
+      audio.play();
+    }, 800);
+  }
+  if ($("#scientist").attr("src") === "assets/media/general/scientist-end.svg") {
+    $("#notebook-button-ending").delay(1500).animate({
+      opacity: "10"
+    }, 1500);
+  }
+}
+
+function scientistInStart() {
+  setTimeout(function() {
+    $("#scientist").animate({
+      top: "50vw"
+    }, 200).animate({
+      top: "20vw"
+    }, 200).animate({
+      top: "30vw"
+    }, 200).delay(200).animate({
+      height: "71vw",
+      top: "27vw"
+    }, 200).animate({
+      height: "67vw",
+      top: "30vw"
+    }, 200);
+  }, 800);
+  $("#scientist").on("click", function() {
+    $("#scientist").off("click");
+    start();
+    $("#scientist").animate({
+      top: "0vw"
+    }, 500)
+  });
+}
+
+function scientistInAbout() {
+  setTimeout(function() {
+    $("#scientist").animate({
+      top: "20vw"
+    }, 200).animate({
+      top: "-10vw"
+    }, 200).animate({
+      top: "0vw"
+    }, 200);
+  }, 800);
+}
+
+function scientistOut() {
+  $("#scientist").animate({
+    top: "-77vw"
+  }, 400)
+  $("#speech-bubble").animate({
+    opacity: "0"
+  }, 500);
+  $("#play-button").animate({
+    opacity: "0"
+  }, 500);
+  $("#about").animate({
+    opacity: "0"
+  }, 500);
+  $("#notebook-button-ending").animate({
+    opacity: "0"
+  }, 500);
+}
+
+function selected(clickedItem, imgName, itemType) {
+  // the last item shall be empty
+  $("#" + itemType + "-" + window[`selected${itemType}`]).attr("src", "assets/media/" + imgName + "-answer/" + imgName + "_" + window[`selected${itemType}`] + ".svg");
+  // if the last item is not the current item
+  if (window[`selected${itemType}`] !== clickedItem.attr("data-num")) {
+    // the variable changes to the new item's number
+    window[`selected${itemType}`] = clickedItem.attr("data-num");
+    // the item is selected
+    clickedItem.attr("src", "assets/media/" + imgName + "-answer/" + imgName + "_selected_" + window[`selected${itemType}`] + ".svg");
+    // if the vial is empty, it is switched to new picture with the new item
+    if (($("#vial").css("background-image").includes("assets/media/vial/vial.svg"))) {
+      $("#vial").css("background-image", "url(assets/media/vial/" + imgName + "_vial_" + window[`selected${itemType}`] + ".svg)");
+    }
+    // if the vial is including another item's picture, it is switched to new picture with the new item
+    else if ($("#vial").css("background-image").includes(imgName)) {
+      $("#vial").css("background-image", "url(assets/media/vial/" + imgName + "_vial_" + window[`selected${itemType}`] + ".svg)");
+    } else {
+      if (selectedcomponent === selectedleader) {
+        reaction("right");
+        // $("#vial").css("background-image", "url(assets/media/vial/vial_right.svg)");
+      } else {
+        reaction("wrong");
+      }
+    }
+  }
+  // canceling double clicked component mark
+  else {
+    clickedItem.attr("src", "assets/media/" + imgName + "-answer/" + imgName + "_" + window[`selected${itemType}`] + ".svg");
+    window[`selected${itemType}`] = null;
+    $("#vial").css("background-image", "url(assets/media/vial/vial.svg)");
+  }
+}
+
+function reaction(reactionKind) {
+  let effect;
+  if (reactionKind === "right") {
+    effect = "cloud";
+    // appending leader to the notebook
+    $("#notebook-scrollbar").append("<div id='marked-name-" + selectedleader + "' class='marked-name'>" + arrLeaders[selectedleader - 1].name + "</div><div id='marked-text-" + selectedcomponent + "' class='marked-text'>" + arrLeaders[selectedcomponent - 1].act + "</div>");
+    $("#marked-name-" + selectedleader).css("background-image", "url(assets/media/marker/marker_" + selectedleader + ".svg)");
+    $("#cloud1").css({
+      "visibility": "hidden",
+      "display": "block"
+    });
+    $("#explosion1").css({
+      "visibility": "visible",
+      "display": "none"
+    });
+    // determin scientist reaction
+    audio = new Audio("assets/media/audio/cut/right_" + Math.floor(Math.random() * 3 + 1) + ".mp3");
+
+  } else {
+    effect = "explosion";
+    $("#explosion1").css({
+      "visibility": "hidden",
+      "display": "block"
+    });
+    $("#cloud1").css({
+      "visibility": "visible",
+      "display": "none"
+    });
+    // determin scientist reaction
+    audio = new Audio("assets/media/audio/cut/wrong_" + Math.floor(Math.random() * 3 + 1) + ".mp3");
+  }
+  // scientist voice
+  audio.play();
+  for (let i = 1; i <= NUM_OF_EXPLOSION_STAGES; i++) {
+    // explosion appears
+    setTimeout(function() {
+      $("#" + effect + i).css("display", "block");
+      if (i === 1) {
+        $("#" + effect + 1).css("visibility", "visible");
+      }
+    }, i * (100));
+    // explosion disappears
+    setTimeout(function() {
+      $("#" + effect + i).css("display", "none");
+      if (i === 1) {
+        $("#" + effect + i).css("visibility", "hidden");
+      }
+      if (i === NUM_OF_EXPLOSION_STAGES) {
+        $("#" + effect + 1).css("display", "block");
+      }
+    }, i * (100) + 100);
+  }
+  // changing vial liquid
+  setTimeout(function() {
+    $("#vial").css("background-image", "url(assets/media/vial/vial_" + reactionKind + ".svg)");
+  }, 500);
+
+  // removing event listeners
+  $(".acts").off("click");
+  $(".leaders").off("click");
+
+  setTimeout(function() {
+    if (reactionKind === "right") {
+      // removing right answers
+      $("#act-" + selectedcomponent).fadeOut();
+      $("#leader-" + selectedleader).fadeOut();
+
+      ending++;
+      if (ending === NUM_OF_LEADERS) {
+        $("#notebook-button").off("click");
+        $("#play-button").off("click");
+        $("#play-button").on("click", function() {
+          window.location.href = "https://youtube.com/shorts/w93f45UhEpg?feature=share";
+        });
+        setTimeout(function() {
+          toggleBlackOpacityDiv();
+          $("#opening-ending-container").css("display", "block");
+          $("#about").css("display", "none");
+          $("#scientist").attr("src", "assets/media/general/scientist-end.svg");
+          audio = new Audio("assets/media/audio/cut/end.mp3");
+          setTimeout(function() {
+            audio.play();
+          }, 1000);
+          start();
+          scientistInAbout();
+          $("#play-button").css({
+            "top": "-30vw",
+            "width": "20%",
+            "left": "38vw"
+          });
+          $("#notebook-button-ending").on("click", function() {
+            $("#notebook-container").css("display", "flex");
+            $("#notebook-container").animate({
+              bottom: "142vw"
+            }, 300);
+            scientistOut();
+          });
+          $("#speech-bubble").html(`עזרתם לי להכין את כל התרופות!<br><span id="great-job-span">עבודה מעולה!</span><br><br>בואו נמשיך הלאה`);
+
+        }, 1500);
+      }
+    } else {
+      // removing item's glow
+      $("#component-" + selectedcomponent).attr("src", "assets/media/info-answer/info_" + selectedcomponent + ".svg");
+      $("#leader-" + selectedleader).attr("src", "assets/media/leader-answer/leader_" + selectedleader + ".svg");
+
+    }
+
+    selectedcomponent = null;
+    selectedleader = null;
+    // clearing vial
+    $("#vial").css("background-image", "url(assets/media/vial/vial.svg)");
+    // adding again event listeners
+    $(".acts").on("click", function() {
+      selected($("#component-" + $(this).attr("id").slice(4)), "info", "component");
+    });
+    $(".leaders").on("click", function() {
+      selected($(this), "leader", "leader");
+    });
+  }, 1500);
+}
+
+function toggleBlackOpacityDiv() {
+  $("#black-opacity").fadeToggle();
+}
